@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olushuyi Olutimilehin Web Dev Journey</title>
+<link href="styles/style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  </head>
+  <body>
+<h1>SHUYI'S WEB DEV JOURNEY</h1>
+    <img src="images/shuyi-portrait.jpg" alt="Olushuyi Olutimilehin's portrait.">
+<p>Today, I built my very first website using guidance from MDN. I learnt how to</p>
+<ul>
+<li>create server style file structure on local machine</li>
+<li>add images to a website</li>
+<li>factor in accessibility by properly captioning images</li>
+</ul>
+<p>I also learnt</p> 
+<ol>
+<li>ordered lists</li>
+<li>unordered lists</li>
+<li>the frustration of forgetting closing tags</li>
+</ol>
+<p>
+You can actually
+<a href="https://www.twitter.com/ShuyiOlutimi">follow me on Twitter.</a>
+I think I am fun.
+</p>
+<button>Change user</button>
+<script src="scripts/main.js"></script>
+  </body>
+</html> 
